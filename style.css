@@ -1,6 +1,8 @@
+body {
+  background-color: purple;
+}
 h1 {
   color: coral;
-  background-color: purple;
 }
 .about {
   color: orange;
