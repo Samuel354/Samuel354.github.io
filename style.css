@@ -1,12 +1,19 @@
+h1 {
+  color: coral;
+  background-color: purple;
+}
 .about {
-  color: purple;
+  color: orange;
 }
 .skills {
-  color: coral;
+  color: orange;
 }
 .projects {
-  color: blue;
+  color: orange;
 }
 .contact {
-  color: gold;
+  color: orange;
+}
+p {
+  color: yellow;
 }
